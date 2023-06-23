@@ -22,11 +22,11 @@
 
 # Stats Page
 
-![Screenshot (149)](https://i.postimg.cc/rs2GzFLJ/Screenshot-2023-06-23-221930.png)
+[![Screenshot-2023-06-23-221930.png](https://i.postimg.cc/rs2GzFLJ/Screenshot-2023-06-23-221930.png)](https://postimg.cc/9R1wn20R)
 
 # Feedback page
 
-![Screenshot (147)](https://i.postimg.cc/KjmKdK2d/Screenshot-2023-06-23-222016.png)
+[![Screenshot-2023-06-23-222016.png](https://i.postimg.cc/KjmKdK2d/Screenshot-2023-06-23-222016.png)](https://postimg.cc/DJYyGwmg)
 
 # Features
 
