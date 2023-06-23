@@ -10,7 +10,7 @@
 
 # Homepage
 
-![Screenshot (145)](https://i.postimg.cc/wvXg80xB/Screenshot-2023-06-23-221450.png)
+[![Screenshot-2023-06-23-221450.png](https://i.postimg.cc/wvXg80xB/Screenshot-2023-06-23-221450.png)](https://postimg.cc/qhv92c3f)
 
 # Signup Page
 
