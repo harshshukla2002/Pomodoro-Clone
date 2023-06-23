@@ -1,0 +1,12 @@
+.link {
+  color: #707070;
+}
+
+.link:hover {
+  color: black;
+}
+
+.link-active {
+  color: black;
+  border-bottom: 3px solid green;
+}

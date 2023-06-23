@@ -1,0 +1,61 @@
+.carousel {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  position: relative;
+}
+
+.carousel-buttons {
+  flex: 1;
+  text-align: center;
+}
+
+.carousel-content {
+  flex: 4;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.carousel-buttons button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+  margin: 0 10px;
+}
+
+.carousel-buttons button:focus {
+  outline: none;
+}
+
+.carousel-buttons button:hover {
+  color: #555;
+}
+
+ul.bullet-points {
+  text-align: left;
+  margin: 10px auto;
+  padding-left: 0;
+  max-width: 700px;
+  font-size: 18px;
+}
+
+ul.bullet-points li {
+  margin-bottom: 5px;
+}
+
+.carousel-content h2 {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.carousel-content p {
+  font-size: 18px;
+  text-align: left;
+}
